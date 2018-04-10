@@ -16,8 +16,8 @@
     <string name="privacy_policy">Privacy Policy</string>
 
 
-    <string name="facebook_app_id">495262950869611</string>
-    <string name="fb_login_protocol_scheme">fb495262950869611</string>
+    <string name="facebook_app_id">Your-facebook-app-id</string>
+    <string name="fb_login_protocol_scheme">your-fb_login_protocol_scheme</string>
     <string name="action_country">Choose Country</string>
     <string name="a_message">Sorry! ,\n Authentication is valid only for Owner due to lack of Privacy and Policy</string>
 
